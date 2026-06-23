@@ -28,7 +28,7 @@ To support the entire CYD developer community, QuadEver Launcher is distributed 
 
 ### 2. 🔥 Upgraded 16MB Version
 * **Target Hardware:** Modded/Upgraded CYD boards (16MB Flash upgrade chip + PSRAM enabled).
-* **Partition Size:** Expanded 6MB partition slot for Launcher (`app0`) and 6MB slot for User Applications (`app1`).
+* **Partition Size:** Expanded 6MB partition slot for Launcher and 6MB slot for User Applications
 * **Performance:** Leverages external PSRAM for faster store catalog caching, smoother screen rendering, and loading large firmware binaries (like custom CYD games, Bruce, or Marauder).
 
 ---
