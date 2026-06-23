@@ -8,7 +8,10 @@
 
 ## ⚡ Quick Start: 1-Click Web Installer
 No compile tools, command lines, or IDEs required. Flash directly from your web browser:
-👉 **[Launch QuadEver Web Flasher & Store](https://quadever-launcher.onrender.com/)**
+
+<a href="https://quadever-launcher.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Launch%20Web%20Store%20%26%20Flasher-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch Web Store" height="42">
+</a>
 
 *Supported browsers: Google Chrome, Microsoft Edge, Opera (any WebSerial-compatible browser).*
 
@@ -35,7 +38,7 @@ To support the entire CYD developer community, QuadEver Launcher is distributed 
 ### 📁 SD Card Browser & Flash Manager
 * **Browse & Select:** Navigate FAT32-formatted SD cards directly from the 2.8" LCD screen.
 * **Smart Filtering:** Auto-detects and displays `.bin` firmware files along with file size.
-* **Firmware Installer:** Flashes a selected `.bin` binary directly into the `app1` partition with a dynamic graphic progress bar. It automatically erases the previous app1 slot before writing.
+* **Firmware Installer:** Flashes a selected `.bin` binary with a dynamic graphic progress bar. It automatically erases the previous binary before writing.
 
 ### 🏪 On-Device Firmware Store (WiFi)
 * **Direct OTA Installation:** Connect your CYD to WiFi to browse, download, and install popular open-source firmware binaries (such as Bruce, Marauder, and other utility apps) directly over the air OTA
@@ -48,7 +51,6 @@ To support the entire CYD developer community, QuadEver Launcher is distributed 
 * **Universal Rotation:** Fully responsive layout that dynamically adjusts buttons, borders, titles, and text alignments between **Landscape (320x240)** and **Portrait (240x320)** orientations.
 * **Fat-Finger Friendly:** Standardized large touch boundaries (`65x30` in Portrait, `65x26` in Landscape for back buttons; enlarged listing rows) to guarantee accurate navigation without stylus pens.
 * **Aesthetic Custom Themes:** Toggle between 5 custom visual styling presets (QuadEver Cyber, Green Matrix, Cyberpunk Red, Retro Amber, and Dracula Violet) directly from the security panel.
-* **Stylized Fonts:** Special rendering interceptors to drawCP437 characters (like size-2 solid red heart icons) perfectly aligned on screen.
 * **On-Screen Keyboard:** Virtual keyboard featuring shift states (UP), numeric/symbols (SYM), alphabetical (ABC), text cursor (black caret), and text-scrolling input box.
 
 ### 🌐 Wireless WebUI & Server
@@ -61,8 +63,9 @@ To support the entire CYD developer community, QuadEver Launcher is distributed 
 
 ---
 
-## 🌐 Web Store & Flasher Features (`https://quadever-launcher.onrender.com/`)
+## 🌐 Web Store & Flasher Features
 
+[![Launch Web Installer](https://img.shields.io/badge/Launch-Web%20Store%20%26%20Flasher-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://quadever-launcher.onrender.com/)
 The companion website provides an all-in-one desktop/mobile dashboard for your CYD board:
 
 * **Browser-Based Flasher:** Connect your CYD via a micro-USB/USB-C cable, choose a firmware, click install, and flash the launcher directly via WebSerial.
