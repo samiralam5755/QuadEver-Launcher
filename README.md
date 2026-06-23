@@ -123,7 +123,7 @@ The companion website provides an all-in-one desktop/mobile dashboard for your C
 | | CS / DC / RST / BL | 15 / 2 / -1 / 21 |
 | **SD Card** | MOSI / MISO / SCLK / CS | 23 / 19 / 18 / 5 (VSPI Bus) |
 | **Touch (XPT2046)**| MOSI / MISO / SCLK / CS / IRQ | 32 / 39 / 25 / 33 / 36 (Remapped VSPI) |
-| **RGB LED** | Red / Green / Blue | 4 / 16 / 17 (Disabled by default for PSRAM compatibility) |
+| **RGB LED** | Red / Green / Blue | 4 / 16 / 17 (Disabled by default for PSRAM compatibility ONLY FOR 16Mb MODE) |
 
 ---
 ## ☕ Support ME
