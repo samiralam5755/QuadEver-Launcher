@@ -126,6 +126,13 @@ The companion website provides an all-in-one desktop/mobile dashboard for your C
 | **RGB LED** | Red / Green / Blue | 4 / 16 / 17 (Disabled by default for PSRAM compatibility) |
 
 ---
+## ☕ Support the Developer
+
+I built this firmware only for the CYD 2.8-inch LCD because I only own this development board. I cannot build it for other boards like M5Stack, LilyGO, etc. But guys, you can support me by buying me a Ko-fi! I will do my best, and your support will help me keep all services running. THANK YOU!
+
+<a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+  <img src="assets/ko-fi.png" alt="Buy Me a Ko-Fi" height="40" />
+</a>
 
 ## 📄 License
 This project is proprietary and closed-source. All rights reserved. Binary compilation and flashing are permitted for personal, non-commercial use on Cheap Yellow Display (CYD) hardware.
