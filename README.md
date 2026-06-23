@@ -4,6 +4,46 @@
 
 **QuadEver Launcher** is a highly optimized, feature-rich resident firmware launcher and app manager designed for the Cheap Yellow Display (CYD) ESP32-2432S028R development board. It allows users to store, browse, flash, and boot multiple application binaries (`.bin` files) from an SD card or wirelessly via a Web User Interface, transforming your CYD display into a versatile multi-tool.
 
+<details>
+  <summary>📸 <b>Click to View Device Screenshot Gallery</b> (Scroll/Swipe horizontally to see all 15 screens! ↔️)</summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td><img src="assets/HomeScreen(L).jpg" height="300" alt="Home Screen (Landscape)"/></td>
+      <td><img src="assets/HomeScreen(P).jpg" height="300" alt="Home Screen (Portrait)"/></td>
+      <td><img src="assets/Firmware%20Store(L).jpg" height="300" alt="Firmware Store (Landscape)"/></td>
+      <td><img src="assets/Firmware%20Store(P).jpeg" height="300" alt="Firmware Store (Portrait)"/></td>
+      <td><img src="assets/SD%20Browser.jpg" height="300" alt="SD Card Browser"/></td>
+      <td><img src="assets/App%20Screen.jpg" height="300" alt="App Run Screen"/></td>
+      <td><img src="assets/App%20Details.jpg" height="300" alt="App Details"/></td>
+      <td><img src="assets/Firmware%20Info.jpg" height="300" alt="Firmware Info"/></td>
+      <td><img src="assets/Settings.jpg" height="300" alt="System Settings"/></td>
+      <td><img src="assets/Account.jpg" height="300" alt="Account Manager"/></td>
+      <td><img src="assets/Partition%20Screen.jpg" height="300" alt="Partition Setup"/></td>
+      <td><img src="assets/Partitions%20Table.jpg" height="300" alt="Partition Table"/></td>
+      <td><img src="assets/Erase%20Firmware.jpg" height="300" alt="Flasher & Erase Manager"/></td>
+      <td><img src="assets/Firmware%20Boot.jpg" height="300" alt="Firmware Boot Screen"/></td>
+      <td><img src="assets/System%20info.jpg" height="300" alt="System Info"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Home Screen (L)</b></td>
+      <td align="center"><b>Home Screen (P)</b></td>
+      <td align="center"><b>Firmware Store (L)</b></td>
+      <td align="center"><b>Firmware Store (P)</b></td>
+      <td align="center"><b>SD Card Browser</b></td>
+      <td align="center"><b>App Run Screen</b></td>
+      <td align="center"><b>App Details & Ratings</b></td>
+      <td align="center"><b>Firmware OTA Info</b></td>
+      <td align="center"><b>System Settings</b></td>
+      <td align="center"><b>Developer Portal Account</b></td>
+      <td align="center"><b>Partition Setup Screen</b></td>
+      <td align="center"><b>Partition Table Mapping</b></td>
+      <td align="center"><b>Direct Flash & Erase</b></td>
+      <td align="center"><b>Bootloader Setup</b></td>
+      <td align="center"><b>System Info Screen</b></td>
+    </tr>
+  </table>
+</details>
 ---
 
 ## ⚡ Quick Start: 1-Click Web Installer
