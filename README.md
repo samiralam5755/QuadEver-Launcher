@@ -130,7 +130,7 @@ The companion website provides an all-in-one desktop/mobile dashboard for your C
 
 I built this firmware only for the CYD 2.8-inch LCD because I only own this development board. I cant build it for other boards like M5Stack, LilyGO, etc. Becouse i have not this boards Due to YOU KNOW!!! But guys, you can support me by buying me a Ko-fi! I will do my best, and your support will help me keep all services running. THANK YOU!
 
-<a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+<a href="https://ko-fi.com/samir_alam" target="_blank">
   <img src="assets/ko-fi.png" alt="Buy Me a Ko-Fi" height="40" />
 </a>
 
