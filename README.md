@@ -49,7 +49,7 @@
 ## ⚡ Quick Start: 1-Click Web Installer
 No compile tools, command lines, or IDEs required. Flash directly from your web browser:
 
-<a href="https://quadever-launcher.onrender.com/" target="_blank">
+<a href="https://quadever-launcher.onrender.com/flasher" target="_blank">
   <img src="https://img.shields.io/badge/Launch%20Web%20Store%20%26%20Flasher-00BFFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch Web Store" height="42">
 </a>
 
